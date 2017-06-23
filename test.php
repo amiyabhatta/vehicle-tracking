@@ -1,3 +1,3 @@
 <?php
-echo 'Vechile Tracking Git repo';
+echo 'Vechile Tracking Git';
 ?>
